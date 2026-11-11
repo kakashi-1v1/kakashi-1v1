@@ -2,7 +2,7 @@
 
 # 🅺🅰🆂🅷🅸
 
-**Android system modder · Founder of [Mods Center](https://github.com/Mods-Center)**
+**Android reverse engineer & ROM developer · Founder of [Mods Center](https://github.com/Mods-Center)**
 
 I make system apps on Xiaomi HyperOS, MIUI and other Android ROMs look and work better. I rebuild control centers, launchers and system apps from the inside and ship them as Magisk / KernelSU / APatch modules.
 
