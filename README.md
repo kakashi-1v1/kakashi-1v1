@@ -11,6 +11,7 @@ I make system apps on Xiaomi HyperOS, MIUI and other Android ROMs look and work 
 [![Modules](https://img.shields.io/badge/modules-30-0a84ff?style=for-the-badge&logo=android&logoColor=white)](https://github.com/Mods-Center)
 [![Since](https://img.shields.io/badge/modding_since-2022-ff375f?style=for-the-badge)](https://github.com/Mods-Center)
 
+[![Website](https://img.shields.io/badge/modscenter.org-website-0a84ff?style=flat-square&logo=googlechrome&logoColor=white)](https://modscenter.org)
 [![Channel](https://img.shields.io/badge/Telegram-channel-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/kashis_cringey_stuffs)
 [![Group](https://img.shields.io/badge/Telegram-support_group-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/bootloop_discussion)
 [![DM](https://img.shields.io/badge/Telegram-DM-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/kakashi1v1)
@@ -23,6 +24,7 @@ I make system apps on Xiaomi HyperOS, MIUI and other Android ROMs look and work 
 - **Unlock and extend system apps.** Launcher, Security Center, Theme Manager, App Vault, AOD, Package Installer, Screenshot: high-end and CN-only features enabled on every device, plus new features of my own.
 - **Patch the framework.** Signature-verification removal for `framework.jar`, `services.jar` and `miui-services.jar`, patched on the device so it matches the user's ROM.
 - **Mod apps that have no dex at all.** The HyperOS 4 launcher is Rust/Flutter, so I mod it with ARM64 binary patches of the compiled Dart and Rust code, plus a native C helper and a companion settings app.
+- **Run [modscenter.org](https://modscenter.org).** The Mods Center website hosts the module catalog and the **[Patcher](https://modscenter.org/patcher)**, an automated service where users pick patch scripts, add their files and get a patched, ready-to-flash Magisk build for their own ROM. Popular scripts include the HyperOS notification delay fix, a ColorOS-style About phone page and signature verification removal.
 - **Build the pipeline, not just the mod.** Scripted patch sets turn every new ROM update into a rebuilt mod: decompile, apply hooks, inject extra dex, recompile. They support several OS versions (HyperOS 3 and 4) from one script.
 
 ## Skills
@@ -65,7 +67,7 @@ I make system apps on Xiaomi HyperOS, MIUI and other Android ROMs look and work 
 | **[iOS Control Center](https://github.com/Mods-Center/iOS-Control-Center-HyperOS)** | iOS-style control center for HyperOS with jelly animations, glass blur and an iOS volume panel | new |
 | **[HyperOS 4 Rust Launcher Mod](https://github.com/Mods-Center/HyperOS-Rust-Launcher-Mod)** | Mods a launcher with no dex at all: ARM64 patches to Dart/Rust code, a native helper and a settings app | new |
 
-**[See all 30 modules →](https://github.com/Mods-Center)**
+**[See all 30 modules on GitHub →](https://github.com/Mods-Center)** · **[or on modscenter.org →](https://modscenter.org/modules)**
 
 <div align="center">
 
